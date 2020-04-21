@@ -25,7 +25,7 @@ Link to blank virtual whiteboard for students to fill out as they complete the c
 Link to example completed virtual whiteboard \(completed by students in Boston-area school on Zoom\):  
 ****[**https://docs.google.com/document/d/12vHnKnAMGfrpStgGrelwOUKgMD8lM0Flglc1aOa8tlA/edit?usp=sharing**](https://docs.google.com/document/d/12vHnKnAMGfrpStgGrelwOUKgMD8lM0Flglc1aOa8tlA/edit?usp=sharing) ****
 
-**Caring for Yourself and Others during COVID-19 Handout**
+\*\*\*\*[**Caring for Yourself and Others during COVID-19**](caring-for-yourself-and-others-during-covid-19.md)\*\*\*\*
 
 [**GUESTBOOK LINK**](https://forms.gle/r9KRC4u89HDtCAJo7)
 
