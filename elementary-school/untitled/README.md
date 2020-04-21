@@ -8,7 +8,7 @@
 
 **Graphic Designers:** Emily Kragel \[5\], Hae Lin Cho \[1\], Pamela Chen \[1\]
 
-_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[3\] Boston Children's Hospital, Division of Emergency Medicine, \[4\] Boston Children's Hospital, Clinical Social Work, \[5\]_
+_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[3\] Boston Children's Hospital, Division of Emergency Medicine, \[4\] Boston Children's Hospital, Clinical Social Work, \[5\] ECU Brody School of Medicine_
 
 ## Who is this curriculum for?
 

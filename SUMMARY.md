@@ -2,13 +2,17 @@
 
 * [Welcome to COVID-19 Classroom!](README.md)
 * [Caregiver/Teacher Guide](caregiver-guide.md)
+* [Resource Links](resource-links.md)
 
 ## Elementary School
 
 * [COVID-19 Elementary Curriculum - Start Here](elementary-school/untitled/README.md)
   * [Caregiver/Teacher Guide](elementary-school/untitled/caregiver-teacher-guide.md)
+  * [Extra Resources](elementary-school/untitled/extra-resources.md)
 * [Grades 1-3](grades-1-3.md)
-* [Grades 4-6](grades-4-6.md)
+* [Grades 4-6](grades-4-6/README.md)
+  * [Module 1: What is Coronavirus?](grades-4-6/module-1-what-is-coronavirus.md)
+  * [Module 2: How can I help?](grades-4-6/module-2-how-can-i-help.md)
 
 ## Middle School
 
