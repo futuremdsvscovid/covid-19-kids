@@ -28,9 +28,9 @@ _Students at Harvard Medical School_
 
 HMS COVID-19 Student Response Team, [Education for Broader Community](https://covidstudentresponse.org/about/)
 
-For general inquiries, contact **rachel\_reardon@hms.harvard.edu**
+Contact: **rachel\_reardon@hms.harvard.edu**
 
-For specific inquiries about a section, contact information is provided at the top of each page.   
+For specific inquiries about a section, additional contact information is provided at the top of each page.   
   
   
   
