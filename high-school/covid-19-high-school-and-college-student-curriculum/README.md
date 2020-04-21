@@ -59,7 +59,7 @@ _At the end of simulation, students should be able to:_
 
 \*\*\*\*[**Case Part 1:** The Man who Lost His Breath](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/untitled.md) 
 
-**Learning Point:** What is COPD? 
+\*\*\*\*[**Learning Point:** What is COPD?](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/learning-point-what-is-copd.md) 
 
 \*\*\*\*[**Case Part 2:** The Iron Lung](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/case-part-2-the-iron-lung.md)
 
