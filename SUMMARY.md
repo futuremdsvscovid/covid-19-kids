@@ -19,11 +19,8 @@
 * [COVID-19 Middle School Curriculum - Start Here](middle-school/untitled/README.md)
   * [Caregiver/Teacher Guide](middle-school/untitled/caregiver-teacher-guide.md)
 * [Middle School Learning Modules](middle-school-learning-modules/README.md)
-  * [What is a virus? What is Coronavirus?](middle-school-learning-modules/what-is-a-virus-what-is-coronavirus.md)
+  * [Part 1: Building Background Knowledge](middle-school-learning-modules/what-is-a-virus-what-is-coronavirus.md)
   * [So how did this all happen?](middle-school-learning-modules/so-how-did-this-all-happen.md)
-  * [What have we been doing to stay safe? Why do these practices work?](middle-school-learning-modules/what-have-we-been-doing-to-stay-safe-why-do-these-practices-work.md)
-  * [Next steps and scientific discovery](middle-school-learning-modules/next-steps-and-scientific-discovery.md)
-  * [What does this mean for me and my friends and family?](middle-school-learning-modules/what-does-this-mean-for-me-and-my-friends-and-family.md)
   * [Extra resources](middle-school-learning-modules/extra-resources.md)
 
 ## High School/College <a id="high-school"></a>

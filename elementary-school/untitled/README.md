@@ -2,7 +2,7 @@
 
 **Student Authors:** Logan Beyer \[1\], Margaret Irwin \[1\], and Chandler Moore \[1\]
 
-**Faculty Reviewers:** Gene Beresin, MD \[2\], Baruch Krauss, MD \[3\], Janis Arnold, MSW, LICSW \[4\]
+**Faculty Reviewers:** Gene Beresin, MD \[2\], Baruch Krauss, MD, EdM \[3\], Janis Arnold, MSW, LICSW \[4\]
 
 **Student Reviewers:** Jessica Laird \[1\], Priya Shah \[1\], Rachel Reardon \[1\], Katie Kester \[1\] ****
 
