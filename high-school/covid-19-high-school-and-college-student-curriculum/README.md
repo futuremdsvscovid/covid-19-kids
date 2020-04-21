@@ -53,15 +53,17 @@ _At the end of simulation, students should be able to:_
 
 ## Table of Contents
 
-**Introduction:** Simulation, Telehealth, and PPE 
+\*\*\*\*[**Caring for Yourself and Others during COVID-19**](caring-for-yourself-and-others-during-covid-19.md)\*\*\*\*
 
-**Case Part 1:** The Man who Lost His Breath 
+\*\*\*\*[**Case Introduction:** Simulation, Telehealth, and PPE ](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/introduction-simulation-telehealth-and-personal-protective-equipment-ppe.md)
+
+\*\*\*\*[**Case Part 1:** The Man who Lost His Breath](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/untitled.md) 
 
 **Learning Point:** What is COPD? 
 
-**Case Part 2:** The Iron Lung 
+\*\*\*\*[**Case Part 2:** The Iron Lung](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/case-part-2-the-iron-lung.md)
 
-**Case Wrap Up:** What Happened to the Man who Lost His Breath?
+\*\*\*\*[**Case Wrap Up:** What Happened to the Man who Lost His Breath?](../../introduction-simulation-telehealth-and-personal-protective-equipment-ppe/wrap-up-what-happened-to-the-man-who-lost-his-breath.md)
 
-**Caring for Yourself and Others during COVID-19**
+\*\*\*\*
 

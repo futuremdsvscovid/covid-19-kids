@@ -27,10 +27,11 @@
 
 * [COVID-19 High School and College Student Curriculum - Start Here](high-school/covid-19-high-school-and-college-student-curriculum/README.md)
   * [Lesson Plans for Teachers](high-school/covid-19-high-school-and-college-student-curriculum/lesson-plans-for-teachers.md)
+  * [Caring for Yourself and Others during COVID-19](high-school/covid-19-high-school-and-college-student-curriculum/caring-for-yourself-and-others-during-covid-19.md)
 * [High School and College Learning Modules](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/README.md)
   * [Introduction: Simulation, Telehealth, and Personal Protective Equipment \(PPE\)](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/introduction-simulation-telehealth-and-personal-protective-equipment-ppe.md)
   * [Case Part 1: The Man who Lost His Breath](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/untitled.md)
+  * [Learning Point: What is COPD?](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/learning-point-what-is-copd.md)
   * [Case Part 2: The Iron Lung](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/case-part-2-the-iron-lung.md)
   * [Wrap Up: What Happened to the Man who Lost His Breath?](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/wrap-up-what-happened-to-the-man-who-lost-his-breath.md)
-  * [Caring for Yourself and Others during COVID-19](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/caring-for-yourself-and-others-during-covid-19.md)
 

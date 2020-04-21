@@ -94,7 +94,11 @@ Intubation is the process of inserting a breathing tube \(also called an endotra
 
 Source: [VeryWell Health](https://www.verywellhealth.com/what-is-intubation-and-why-is-it-done-3157102)
 
-**Watch this** [**video from Covenant Health**](https://www.youtube.com/watch?v=FtJr7i7ENMY) **from 3:28-4:29 to learn about the intubation.**
+**Watch this** [**video from Covenant Health**](https://www.youtube.com/watch?v=FtJr7i7ENMY) **from 3:28-4:29 to learn about the intubation:**
+
+{% embed url="https://www.youtube.com/watch?v=FtJr7i7ENMY" %}
+
+\*\*\*\*
 
 ## **Check-in 7:**
 
