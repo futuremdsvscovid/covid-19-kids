@@ -2,6 +2,8 @@
 
 **Medical Student Authors:** Kendall Carpenter \[1\], Priya Shah \[1\], Audrey Effenberger \[2\]
 
+**Contact**: kendall\_carpenter@hms.harvard.edu
+
 **Graphic Designer:** Constance Wu \[1\]
 
 **Faculty Reviewers:** Gene Beresin, MD \[3\], Baruch Krauss, MD, EdM \[4\], Janis Arnold, MSW, LICSW \[5\]
