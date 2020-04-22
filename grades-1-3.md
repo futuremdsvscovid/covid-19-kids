@@ -6,7 +6,7 @@
 
 ## What is happening in the world?
 
-![](.gitbook/assets/confused-kid.psd)
+![](.gitbook/assets/confused-kid.png)
 
 ## **Let’s color to learn more!**
 
@@ -44,7 +44,7 @@
 
 ## **Germ busters have 3 jobs!**
 
-![](.gitbook/assets/counting-covid.png)
+![](.gitbook/assets/counting-covid%20%282%29.png)
 
 ### **Job \#1: Wash your hands for 20 seconds. To count to 20 seconds, sing the Happy Birthday song or Baby Shark twice.** 
 

@@ -30,7 +30,7 @@ Video courtesy of Elena Perez, @elena4prez on Instagram
 
 ### If coronavirus gets inside a person’s body, it can give them a fever and a cough, and sometimes it can make it feel hard to breathe. Luckily, our body can fight back against coronavirus!
 
-![](../.gitbook/assets/thermometer-covid.png)
+![](../.gitbook/assets/thermometer-covid%20%281%29.png)
 
 ### Inside our bodies, there are special immune cells that travel all around our bodies searching for germs. When they find germs, the immune cells destroy them and keep us healthy! When we feel sick from a cold or flu and then start to feel better, we can thank our immune cells for helping us fight the germs.  ****
 

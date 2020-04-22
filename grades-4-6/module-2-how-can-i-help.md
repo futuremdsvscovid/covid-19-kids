@@ -1,8 +1,10 @@
 # Module 2: How can I help?
 
-## **Germ busters have 5 jobs.**  
+## **Germ busters have 5 jobs.** 
 
-![](../.gitbook/assets/counting-covid%20%281%29.png)
+![](../.gitbook/assets/counting-covid.png)
+
+![](../.gitbook/assets/counting-5-covid.png)
 
 ### **Job \#1: Wash your hands.**
 
