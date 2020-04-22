@@ -4,15 +4,15 @@ description: Welcome! Please review this introduction to the high school/college
 
 # COVID-19 High School and College Student Curriculum - Start Here
 
-**Author:** Jessica Laird, MS3, Harvard Medical School
+**Author:** Jessica Laird, MS3 \[1\]
 
 jessica\_laird@hms.harvard.edu 
 
-**Faculty Reviewers:** Ned Palmer, MD \[1\], Gene Beresin, MD \[2\], Ms. Livia Rizzo \[3\], Ms. Erin Martin \[3\]
+**Faculty Reviewers:** Ned Palmer, MD \[2\], Gene Beresin, MD \[3\], Ms. Livia Rizzo \[4\], Ms. Erin Martin \[4\]
 
-_\[1\] Boston Children’s Hospital, Division of Medical Critical Care, \[2\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[3\] Teachers, Harvard Medical School MEDScience_
+**Student Reviewers:** Chandler Moore \[1\], Katie Kester \[1\], Kendall Carpenter \[1\], Priya Shah \[1\], Rachel Reardon \[1\]
 
-**Student Reviewers:** Chandler Moore, Katie Kester, Kendall Carpenter, Priya Shah, Rachel Reardon _Harvard Medical School_
+_\[1\] Harvard Medical School, \[2\] Boston Children’s Hospital, Division of Medical Critical Care, \[3\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[4\] Teachers, Harvard Medical School MEDScience_
 
 ## Who is this curriculum for?
 

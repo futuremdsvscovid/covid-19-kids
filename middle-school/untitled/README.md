@@ -4,11 +4,11 @@
 
 **Graphic Designer:** Constance Wu \[1\]
 
-**Student Reviewers:** Margaret Irwin \[1\], Chandler Moore \[1\], Rachel Reardon \[1\], Katie Kester \[1\]
+**Faculty Reviewers:** Gene Beresin, MD \[3\], Baruch Krauss, MD, EdM \[4\], Janis Arnold, MSW, LICSW \[5\]
 
 **Teacher Reviewer:** Tory Small, M.S.Ed.
 
-**Faculty Reviewers:** Gene Beresin, MD \[3\], Baruch Krauss, MD, EdM \[4\], Janis Arnold, MSW, LICSW \[5\]
+**Student Reviewers:** Margaret Irwin \[1\], Chandler Moore \[1\], Rachel Reardon \[1\], Katie Kester \[1\]
 
 _\[1\] Harvard Medical School, \[2\] Massachusetts Institute of Technology, \[3\] Massachusettes General Hospital for Children, Department of Child and Adolescent Psychiatry \[4\] Boston Children’s Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Clinical Social Work_
 
