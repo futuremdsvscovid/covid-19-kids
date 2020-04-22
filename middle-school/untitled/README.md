@@ -1,16 +1,16 @@
 # COVID-19 Middle School Curriculum - Start Here
 
-**Medical Student Authors:** Kendall Carpenter \[1\], Priya Shah \[1\]
+**Medical Student Authors:** Kendall Carpenter \[1\], Priya Shah \[1\], Audrey Effenberger \[2\]
 
-**Graphic Designers:** Audrey Effenberger \[2\], Constance Wu \[1\]
+**Graphic Designer:** Constance Wu \[1\]
 
 **Student Reviewers:** Margaret Irwin \[1\], Chandler Moore \[1\], Rachel Reardon \[1\], Katie Kester \[1\]
 
 **Teacher Reviewer:** Tory Small, M.S.Ed.
 
-**Faculty Reviewers:** Gene Beresin, MD \[3\], Baruch Krauss, MD, EdM \[4\], Janis Arnold, MSW, LICSW \[4\]
+**Faculty Reviewers:** Gene Beresin, MD \[3\], Baruch Krauss, MD, EdM \[4\], Janis Arnold, MSW, LICSW \[5\]
 
-\[1\] Harvard Medical School, \[2\] Massachusetts Institute of Technology, \[3\] Massachusettes General Hospital, \[4\] Boston Children’s Hospital
+_\[1\] Harvard Medical School, \[2\] Massachusetts Institute of Technology, \[3\] Massachusettes General Hospital for Children, Department of Child and Adolescent Psychiatry \[4\] Boston Children’s Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Clinical Social Work_
 
 ## **Introduction:**
 
