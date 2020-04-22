@@ -14,7 +14,7 @@ This home activity guides families to shine light on their feelings through crea
 
 ### [Trinka and Sam Fighting the Big Virus](https://www.nctsn.org/resources/trinka-and-sam-fighting-the-big-virus)
 
-The National Child Trauma Stress Network has created this free story/coloring book for families to download.
+The National Child Trauma Stress Network has authored and published this free story/coloring book for families to download.
 
 ### ["Helping Children Cope with Coronavirus and Uncertainty", from the Harvard Graduate School of Education](https://www.gse.harvard.edu/news/uk/20/03/helping-children-cope-coronavirus-and-uncertainty)
 
