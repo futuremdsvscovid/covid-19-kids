@@ -4,6 +4,8 @@
 
 ![Click on this picture to make it larger and print!](../.gitbook/assets/middle-school-curriculum-safety.jpg)
 
+{% file src="../.gitbook/assets/safety-graphic.pdf" caption="Safety Printable PDF" %}
+
 * **WASH YOUR HANDS**
 
   * **What:** Wash your hands often \(especially before you eat and after you use the bathroom\) with soap and water for at least 20 seconds. To time yourself, you can sing the Happy Birthday song twice!
@@ -36,6 +38,10 @@
 Scientists have a lot of similar questions! They use a process called the Scientific Method to discover answers to their questions. There are many unknowns, and the Scientific Method helps us deal with the uncertainty by solving problems step-by-step.
 
 **Steps:** 
+
+![Click the picture to make it bigger!](../.gitbook/assets/scientific-metho-graphic.png)
+
+{% file src="../.gitbook/assets/scientific-method-graphic.pdf" caption="Scientific Method Printable PDF" %}
 
 * **Ask a question.** 
   * Start your question with one of the **5 W’s**: **W**ho, **W**hat, **W**hen, **W**here, **W**hy, or ho**W**?

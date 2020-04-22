@@ -50,6 +50,8 @@ Now that you've learned a little about the immune system’s response to viruses
 
 ![](../.gitbook/assets/timeline-final-text.png)
 
+{% file src="../.gitbook/assets/timeline-graphic.pdf" caption="Timeline Graphic Printable PDF" %}
+
 * **Dec 31st, 2019 -** China reports that there were a cluster of lung infections from an unknown cause in Wuhan, China.
   * The people with these lung infections had visited a market which suggested the virus was transmitted to humans from an animal \(possibly a bat\).
 * **Early January 2020 -** The cause of these lung infections is found to be a new virus that has never been seen in humans before. Doctors think that the virus may have originally come from a virus that used to only infect animals. 
