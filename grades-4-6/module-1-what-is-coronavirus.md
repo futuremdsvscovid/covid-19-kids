@@ -14,7 +14,7 @@
 
 ![](../.gitbook/assets/confused.png)
 
-### Coronavirus is a germ that can make people sick. It can spread from person to person. But coronavirus doesn’t have legs, so it likes to travel on tiny drops of water. These water drops can fly in the air when we cough, sneeze, or talk. ****
+### Coronavirus is a germ that can make people sick. It can spread from person to person. But coronavirus doesn’t have legs, so it likes to travel on tiny drops of water. These water drops can fly in the air when we cough, sneeze, or talk. **If they land on our hands and we touch things, the virus can land on those things and other people might touch them.**
 
 ![](../.gitbook/assets/sneeze.png)
 
@@ -28,7 +28,7 @@ Video courtesy of Elena Perez, @elena4prez on Instagram
 
 ![](../.gitbook/assets/doorknob.png)
 
-### If coronavirus gets inside a person’s body, it can give them a fever and a cough, and sometimes it can make it feel hard to breathe. Luckily, our body can fight back against coronavirus! **\[Graphic of person with thermometer showing a fever\]**
+### If coronavirus gets inside a person’s body, it can give them a fever and a cough, and sometimes it can make it feel hard to breathe. Luckily, our body can fight back against coronavirus!
 
 ![](../.gitbook/assets/thermometer-covid.png)
 

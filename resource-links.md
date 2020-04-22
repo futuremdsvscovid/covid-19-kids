@@ -4,7 +4,7 @@ description: >-
   not created by this Pediatric Education Team.
 ---
 
-# Resource Links
+# More Resource Links
 
 You can find links to content curated for each age group linked on the "Extra Resources" pages, and within the curriculum materials at appropriate points. Here, we're also including links to materials that many age groups can benefit from:
 

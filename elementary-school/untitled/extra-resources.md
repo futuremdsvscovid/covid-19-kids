@@ -12,5 +12,7 @@ Visit the website to download translations to over 30 languages, and sheets for 
 
 ### **For more coloring sheets and age-appropriate information about coronavirus designed just for kids, visit** [**www.coloringforcovid.com**](http://www.coloringforcovid.com/)**.** 
 
+### **The National Child Traumatic Stress Network.** [**Supporting Children During Coronavirus \(COVID19\)**](https://www.nctsn.org/resources/supporting-children-during-coronavirus-covid19) **and**  [**Parent/Caregiver Guide to Helping Families Cope With the Coronavirus Disease 2019**](https://www.nctsn.org/resources/parent-caregiver-guide-to-helping-families-cope-with-the-coronavirus-disease-2019)
+
 ###   
 

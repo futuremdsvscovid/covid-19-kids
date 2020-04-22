@@ -52,7 +52,7 @@
 
 ![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
-## **Germ busters have 3 jobs! \[Graphic of counting fingers\]**
+## **Germ busters have 3 jobs!**
 
 ![](.gitbook/assets/counting-covid.png)
 
@@ -66,7 +66,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=kHPQrYthn6M&feature=youtu.be" %}
 
-\*\*\*\*
+Source: CDC
 
 ### **Job \#2: Cover when you Cough or Sneeze.**
 
@@ -74,7 +74,7 @@
 
 ![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
-### **Job \#3: Send love from a distance.**
+### **Job \#3: Send love from a distance. Germs can spread when lots of people are close together.**
 
   ****
 
@@ -82,7 +82,7 @@
 
 ![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
-### **We will STOP coronavirus! I am happy I can help.**
+### **We will STOP coronavirus! I am happy I can help keep the virus away from my friends and family.**
 
 ![](https://lh6.googleusercontent.com/Slu3sceW8FUlaR7MepDl1eTsKsrsSUDEopMgwgl26ArjWhfsXwWMMCMFr4AQ5hLm79Wf7RynEUSkKxTI9Cr-n_nJPUgMtCj217_0m27lLc2leoM0VzjwQGl5xe32BoPxA20JxmlC)
 

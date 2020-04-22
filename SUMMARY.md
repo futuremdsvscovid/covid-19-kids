@@ -2,7 +2,7 @@
 
 * [Welcome to COVID-19 Classroom!](README.md)
 * [Caregiver/Teacher Guide](caregiver-guide.md)
-* [Resource Links](resource-links.md)
+* [More Resource Links](resource-links.md)
 
 ## Elementary School
 

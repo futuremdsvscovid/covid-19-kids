@@ -1,6 +1,6 @@
 # Module 2: How can I help?
 
-## **Germ busters have 5 jobs. \[Graphic of counting fingers\]**  
+## **Germ busters have 5 jobs.**  
 
 ![](../.gitbook/assets/counting-covid%20%281%29.png)
 
@@ -12,11 +12,11 @@
 
 **It takes time to make sure that every part of your hands are covered with soap to destroy the germs. To make sure all the germs are gone, I sing the Happy Birthday song twice while washing my hands. Sometimes I even make up my own words to the same tune, or try Baby Shark!** 
 
-{% embed url="https://www.youtube.com/watch?v=kHPQrYthn6M&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=kHPQrYthn6M&feature=youtu.be" caption="Souce: CDC" %}
 
 ### **Job \#2: Cover your mouth and nose when you cough and sneeze.**
 
-**Cover your mouth and nose with your elbow or a tissue. Coughs and sneezes release water droplets, and coronavirus can use these water droplets to spread from person to person. If you instead cough into your elbow or sneeze into a tissue, the water droplets don’t fly and coronavirus gets stopped in its tracks.**
+**Cover your mouth and nose with your elbow or a tissue. Coughs and sneezes release water droplets, and coronavirus can use these water droplets to spread from person to person. If you instead cough into your elbow or sneeze into a tissue, the water droplets don’t fly and coronavirus gets stopped in its tracks. Be sure to wash your hands after you throw the tissue away!**
 
 ![](https://lh5.googleusercontent.com/Ju2cYq086ScsAEv9ct1Tdl2Z9Kd2gBjwMYmApBwArmgJfpboBGpsylbW2CLJRa4W5C2CoQ0XbzV2DXwqsK0opwx6t8SVVYsNZMPQ3EnkPduLIQ6CkmEVbK4z-E-CNyP0qcSlKqRa)
 
@@ -40,7 +40,7 @@
 
 ![](https://lh6.googleusercontent.com/AKXKnLXxfJPuQpUwzSzCjgK3T56P4c8eLWGDHxQcCaUKKtIf195YpAhdItL0wIKKumaZbbiVgQJehMvMAftDcXZFCzLMCIgOkjLFZOubRhi3KBRtHGW2kpo1VF_AZETkYdKLKLbK)
 
-### **We will STOP Coronavirus! I am happy I can help.**
+### **We will STOP Coronavirus! I am happy I can help keep the virus away from my friends and family.**
 
 ![](https://lh6.googleusercontent.com/Slu3sceW8FUlaR7MepDl1eTsKsrsSUDEopMgwgl26ArjWhfsXwWMMCMFr4AQ5hLm79Wf7RynEUSkKxTI9Cr-n_nJPUgMtCj217_0m27lLc2leoM0VzjwQGl5xe32BoPxA20JxmlC)
 

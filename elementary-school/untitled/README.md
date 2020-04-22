@@ -2,13 +2,13 @@
 
 **Student Authors:** Logan Beyer \[1\], Margaret Irwin \[1\], and Chandler Moore \[1\]
 
-**Faculty Reviewers:** Gene Beresin, MD \[2\], Baruch Krauss, MD, EdM \[3\], Janis Arnold, MSW, LICSW \[4\]
+**Faculty Reviewers:** Gene Beresin, MD \[2\], Baruch Krauss, MD, EdM \[3\], Rachel Conrad, MD \[4\], Janis Arnold, MSW, LICSW \[5\]
 
 **Student Reviewers:** Jessica Laird \[1\], Priya Shah \[1\], Rachel Reardon \[1\], Katie Kester \[1\] ****
 
-**Graphic Designers:** Emily Kragel \[5\], Hae Lin Cho \[1\], Pamela Chen \[1\]
+**Graphic Designers:** Emily Kragel \[6\], Hae Lin Cho \[1\], Pamela Chen \[1\]
 
-_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[3\] Boston Children's Hospital, Division of Emergency Medicine, \[4\] Boston Children's Hospital, Clinical Social Work, \[5\] ECU Brody School of Medicine_
+_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[3\] Boston Children's Hospital, Division of Emergency Medicine, \[4\] Boston Children's Hospital, Department of Child and Adolescent Psychiatry, \[5\] Boston Children's Hospital, Clinical Social Work, \[6\] ECU Brody School of Medicine_
 
 ## Who is this curriculum for?
 
