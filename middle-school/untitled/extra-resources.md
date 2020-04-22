@@ -18,7 +18,7 @@
 
 [**Coloring for COVID-19**](http://www.coloringforcovid.com/)
 
-[**Fact Sheet**](https://drive.google.com/file/d/1Az2n7Xa1f_GTJApr5gFvlcanOggWcCWq/view)
+\*\*\*\*[**Fact Sheet for Kids**](https://drive.google.com/file/d/1Az2n7Xa1f_GTJApr5gFvlcanOggWcCWq/view) **from COVID-19 Health Literacy Project**
 
 [**NPR Comic**](https://www.npr.org/sections/goatsandsoda/2020/02/28/809580453/just-for-kids-a-comic-exploring-the-new-coronavirus)
 
