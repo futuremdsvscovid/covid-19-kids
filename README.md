@@ -18,6 +18,8 @@ Please share your [feedback here](https://forms.gle/VV2QKz6WL2WRQ8Bm6).
 
 Rachel Reardon: Team Lead
 
+Contact: **rachel\_reardon@hms.harvard.edu**
+
 Chandler Moore, Logan Beyer, Margaret Irwin: Elementary Team
 
 Kendall Carpenter, Priya Shah: Middle School Team
@@ -27,8 +29,6 @@ Jessica Laird, Katie Kester: High School Team
 _Students at Harvard Medical School_
 
 HMS COVID-19 Student Response Team, [Education for Broader Community](https://covidstudentresponse.org/about/)
-
-Contact: **rachel\_reardon@hms.harvard.edu**
 
 For specific inquiries about a section, additional contact information is provided at the top of each page.   
   
