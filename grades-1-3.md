@@ -50,8 +50,6 @@
 
 ![](https://lh5.googleusercontent.com/fSdJA0R33KXwCdYeTDL9DgfobZKCoERs3PzjAmhzEU1sKpwrPneKT2fuvgNDzHXsugLGKhK_z04R89AfyZSGz3ivREpigohlqkFDfmmiivcI8XT1WZRX6rAaOOAM_x8xxdMZ-RYA)
 
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
-
 ### **You can watch this video about washing your hands:**
 
 {% embed url="https://www.youtube.com/watch?v=kHPQrYthn6M&feature=youtu.be" %}
