@@ -20,7 +20,13 @@ The National Child Trauma Stress Network has created this free story/coloring bo
 
 This video from Richard Weissbourd, a senior lecturer at the Harvard Graduate School of Education, can help caregivers navigate conversations with children.
 
-## 
+### **Camp Cope-A-Lot Online** \[Software\] Retrieved from [www.CopingCatParents.com](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.CopingCatParents.com&d=DwMF-g&c=WO-RGvefibhHBZq3fL85hQ&r=XqKKuOynfAI9fTQssVMFXMKYXiAQMX0mHeVfLlhZ-H0&m=4lurTiWIO9HFdsRJbB80PahOSlmeM863rnie_vJk8NI&s=_5nMsLKA0bXCymPJ8_ybCfIeSMg8qqWQy8RLifDEwD8&e=). 
+
+{% file src=".gitbook/assets/level2\_sec5.mp4" caption="Coping Cat Clip 1" %}
+
+{% file src=".gitbook/assets/level2\_sec6.mp4" caption="Coping Cat Clip 2" %}
+
+These video clips from the Camp Cope-A-Lot online program help children learn how to handle stress and anxiety.
 
 
 
