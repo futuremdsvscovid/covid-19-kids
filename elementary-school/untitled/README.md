@@ -2,7 +2,7 @@
 
 **Student Authors:** Logan Beyer \[1\], Margaret Irwin \[1\], and Chandler Moore \[1\]
 
-**Contact:** logan\_beyer@hms.harvard.edu ; margaret\_irwin@hms.harvard.edu
+**Contact:** logan\_beyer@hms.harvard.edu
 
 **Graphic Designers:** Emily Kragel \[2\], Hae Lin Cho \[1\], Pamela Chen \[1\]
 

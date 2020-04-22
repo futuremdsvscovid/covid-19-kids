@@ -34,7 +34,7 @@ Video courtesy of Elena Perez, @elena4prez on Instagram
 
 ### Inside our bodies, there are special immune cells that travel all around our bodies searching for germs. When they find germs, the immune cells destroy them and keep us healthy! When we feel sick from a cold or flu and then start to feel better, we can thank our immune cells for helping us fight the germs.  ****
 
-![](https://lh5.googleusercontent.com/AirjtostSGN0g7n0DH1qLPlPa0RS1JNPUwOcIJjHHqY-Kjc7LL1fIBkAePb5fAUHRscbPa1lWS7iLdiOwNAdKNNdEw6FNAlsSyjPonrq-YLEQWZUU77-quSvvn-HOLuHXikPh3SY)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### One of the best ways to stop coronavirus is through physical distancing. Physical distancing means staying at home and away from large groups of people. Since coronavirus travels in water droplets, it can only travel a small distance. If we try to stay six feet apart from other people, we can stop the spread of coronavirus.
 

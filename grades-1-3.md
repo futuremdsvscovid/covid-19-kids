@@ -14,7 +14,7 @@
 
 ## **We have been hearing some BIG news!** 
 
-![Today we got BIG news!](.gitbook/assets/image%20%288%29.png)
+![Today we got BIG news!](.gitbook/assets/image%20%289%29.png)
 
 ## **Schools, stores and even parks are being closed because of something called coronavirus.**
 
