@@ -46,7 +46,7 @@ Video courtesy of Elena Perez, @elena4prez on Instagram
 
 ### Grown-ups are working together to stop coronavirus and keep everyone healthy. Doctors, nurses, truck drivers, grocery store workers, and even moms and dads are all helping.  ****
 
-![](https://lh6.googleusercontent.com/1nxZZVtW6s8IbKqtakTtaZBWWLj69v8KSN8ymbZInf8d_-EVPa3uZI8Uf9XCjr8_heB9MENbbt6LKgucS_kqX0I5aH8odyNzndp5xP3__RlXwUD5Np_8GAWN6wrpTEPqTVPkqXe0)
+![Grown-ups are working very hard to stop coronavirus.](../.gitbook/assets/image%20%283%29.png)
 
 ### **And YOU can help too! Click on the next lesson to learn how you can be a GERM BUSTER and help fight coronavirus.** 
 

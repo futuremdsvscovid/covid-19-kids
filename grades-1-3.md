@@ -32,7 +32,9 @@
 
 ![](.gitbook/assets/3dgerm.png)
 
-## **Coronavirus spreads when people are together. When we stay at home, we are staying away from coronavirus. This keeps us all healthy.**  
+## **Coronavirus spreads when people are together. When we stay at home, we are staying away from coronavirus. This keeps us all healthy.** 
+
+
 
 ![](https://lh6.googleusercontent.com/YhrpKLVjgsnm7GRNl4vmHS0AFzF2k-8qFjWBIUFKhUVAkDDAEoAWe07bt7lWI39GMIcvQ6SVXfV-sFK70XA4BQbFeyXYrQu0ppfXqVGSYofc2g2F6DqjNNSDskpsT4rsa_hnpQ-M)
 
@@ -40,7 +42,7 @@
 
 ## **Grown-ups are working really hard to stop coronavirus.**
 
-![](https://lh6.googleusercontent.com/1nxZZVtW6s8IbKqtakTtaZBWWLj69v8KSN8ymbZInf8d_-EVPa3uZI8Uf9XCjr8_heB9MENbbt6LKgucS_kqX0I5aH8odyNzndp5xP3__RlXwUD5Np_8GAWN6wrpTEPqTVPkqXe0)
+![Grown-ups are working very hard to stop coronavirus.](.gitbook/assets/image%20%282%29.png)
 
 ![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
@@ -70,7 +72,7 @@ Source: CDC
 
 ### **Job \#2: Cover when you Cough or Sneeze.**
 
-![](https://lh5.googleusercontent.com/Ju2cYq086ScsAEv9ct1Tdl2Z9Kd2gBjwMYmApBwArmgJfpboBGpsylbW2CLJRa4W5C2CoQ0XbzV2DXwqsK0opwx6t8SVVYsNZMPQ3EnkPduLIQ6CkmEVbK4z-E-CNyP0qcSlKqRa)
+![I use my elbow or a tissue to cover my nose and mouth.](.gitbook/assets/image%20%281%29.png)
 
 ![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
