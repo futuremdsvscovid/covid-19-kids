@@ -16,3 +16,9 @@ Kids can work through this curriculum on their own or in partnership with their 
 
 This can be a very stressful time for children and caregivers, alike. Focusing on family mental health can help us support one another. Check out our guide for caregivers: [How to Support Kids and Teens Through the Coronavirus Pandemic](https://docs.google.com/document/d/1Gk4AFH69cDUF8p3FcYbHUEstYWWOb5XkkULfJ0wrCsM/edit). 
 
+All of the printables found in this curriculum can be downloaded here:
+
+{% page-ref page="../../middle-school-learning-modules/extra-resources.md" %}
+
+
+
