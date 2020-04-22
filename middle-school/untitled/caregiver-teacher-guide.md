@@ -6,7 +6,11 @@ This curriculum is designed to help middle-schoolers learn more about COVID-19 i
 
 ### **How to Use This Curriculum:**
 
-Kids can work through this curriculum on their own or in partnership with their caregivers/teachers. The curriculum is split into two parts: Part 1 - Building Background Knowledge and Part 2 - Action and Exploration. Students can complete the whole curriculum all in one sitting or split the two parts over multiple days. There is a worksheet \(that can be downloaded or printed out\) that children should fill out as they move through the curriculum in order to get the most out of the material:
+Kids can work through this curriculum on their own or in partnership with their caregivers/teachers. The curriculum is split into two parts: Part 1 - Building Background Knowledge and Part 2 - Action and Exploration. Students can complete the whole curriculum all in one sitting or split the two parts over multiple days. There is a worksheet \(that can be downloaded or printed out\) that children should fill out as they move through the curriculum in order to get the most out of the material: 
+
+{% file src="../../.gitbook/assets/middleschool\_covid19worksheet.docx" caption="WordDoc Worksheet" %}
+
+{% file src="../../.gitbook/assets/middleschool\_covid19worksheet.pdf" caption="PDF Worksheet" %}
 
 **For teachers -** the worksheet can be used as an assignment to show that your students completed the module. Students can also create a Prezi or Google Slides presentation about their Scientific Method discovery question to share with the class as a culminating project. 
 

@@ -18,7 +18,7 @@
 
 **Cover your mouth and nose with your elbow or a tissue. Coughs and sneezes release water droplets, and coronavirus can use these water droplets to spread from person to person. If you instead cough into your elbow or sneeze into a tissue, the water droplets don’t fly and coronavirus gets stopped in its tracks. Be sure to wash your hands after you throw the tissue away!**
 
-![I use my elbow or a tissue to cover my nose and mouth.](../.gitbook/assets/image%20%284%29.png)
+![I use my elbow or a tissue to cover my nose and mouth.](../.gitbook/assets/image%20%287%29.png)
 
 ### **Job \#3: Send love from a distance.**
 

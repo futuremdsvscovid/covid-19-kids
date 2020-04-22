@@ -14,15 +14,11 @@
 
 ## **We have been hearing some BIG news!** 
 
-![](https://lh5.googleusercontent.com/MAMegjC9JUdIreGp8MQv9JNNcCKSoBSkE93H_v-8ft57QSDsNpel7agkkAdiQv8_V9EMG0lZ28v9BfOtd9DXs8x_Raj5UNPuQQh71rbaITyJy2cOSNpoYOlyR2l7aENcnN2lcNb4)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
+![Today we got BIG news!](.gitbook/assets/image%20%288%29.png)
 
 ## **Schools, stores and even parks are being closed because of something called coronavirus.**
 
 ![](https://lh5.googleusercontent.com/0E_tOL3pD5uBAm7Ybiu5-PJntgMXS_mSHPnthMV-KEO-Q39tp13d0-_WNHNUpH0gVWT8dPmcUhkh6fFm1Cemd0-p4lgfmI4oNa8t81BvE-iK4bK5PPIw9DksERvUg70gqocRzwNx)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
 ## **What is coronavirus?**
 
@@ -34,25 +30,17 @@
 
 ## **Coronavirus spreads when people are together. When we stay at home, we are staying away from coronavirus. This keeps us all healthy.** 
 
-
-
-![](https://lh6.googleusercontent.com/YhrpKLVjgsnm7GRNl4vmHS0AFzF2k-8qFjWBIUFKhUVAkDDAEoAWe07bt7lWI39GMIcvQ6SVXfV-sFK70XA4BQbFeyXYrQu0ppfXqVGSYofc2g2F6DqjNNSDskpsT4rsa_hnpQ-M)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
+![When we stay home from school, it helps us stay healthy.](.gitbook/assets/image%20%284%29.png)
 
 ## **Grown-ups are working really hard to stop coronavirus.**
 
-![Grown-ups are working very hard to stop coronavirus.](.gitbook/assets/image%20%282%29.png)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
+![Grown-ups are working very hard to stop coronavirus.](.gitbook/assets/image%20%283%29.png)
 
 ## **Are you ready to be a germ buster?**
 
-![](.gitbook/assets/germ-buster.png)
+![](.gitbook/assets/germ-buster-1.png)
 
 ![](https://lh6.googleusercontent.com/icl9Pt5Oi2shc-0uSPqKAmkW9MvAr9XZcC_AxqMjx99E3vmh7QXj0SgMnkPcWn8X_1qBPRninp6WH76pTHhza-jUplVsN-6ZcQT9_yoWr5eqFbtYCbFZamELuc5xoqGCTZKXqVf1)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
 ## **Germ busters have 3 jobs!**
 
@@ -72,9 +60,7 @@ Source: CDC
 
 ### **Job \#2: Cover when you Cough or Sneeze.**
 
-![I use my elbow or a tissue to cover my nose and mouth.](.gitbook/assets/image%20%281%29.png)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
+![I use my elbow or a tissue to cover my nose and mouth.](.gitbook/assets/image%20%282%29.png)
 
 ### **Job \#3: Send love from a distance. Germs can spread when lots of people are close together.**
 
@@ -82,13 +68,9 @@ Source: CDC
 
 ![](https://lh3.googleusercontent.com/nXKms_Vfm7jy50c_TE8-_bo2GIM_1NaQF3AtXKIcwcdl113T-_fkgw2PGqtDELatV9G9A6dC71Jr-vBOCVp72ymEtZuVFhXBFdE4BJVaztBCfmE-iySTxfzamprCZKr9EVIFTCUJ)
 
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
-
 ### **We will STOP coronavirus! I am happy I can help keep the virus away from my friends and family.**
 
 ![](https://lh6.googleusercontent.com/Slu3sceW8FUlaR7MepDl1eTsKsrsSUDEopMgwgl26ArjWhfsXwWMMCMFr4AQ5hLm79Wf7RynEUSkKxTI9Cr-n_nJPUgMtCj217_0m27lLc2leoM0VzjwQGl5xe32BoPxA20JxmlC)
-
-![](https://lh3.googleusercontent.com/XyIfcqzv-BdEbojxYg2SaCEZLyhCkBEUlCvjUFlmkx4ZSXABwC0HfGdXw6gVxaZ_WBHCvCokwlndHd2GymHMK2oxbrbkvRRnTKPv9-JdKAglVZKbN1uCMfCUEzj_n3Pn3qBthCck)
 
 ## **The End. Thank you for coloring with us! If you want to keep coloring, click** [**HERE**](https://www.coloringforcovid.com/)**!**  
 

@@ -4,7 +4,7 @@
 
 ### **Lately, we have heard a lot of BIG news.**  
 
-![](https://lh5.googleusercontent.com/MAMegjC9JUdIreGp8MQv9JNNcCKSoBSkE93H_v-8ft57QSDsNpel7agkkAdiQv8_V9EMG0lZ28v9BfOtd9DXs8x_Raj5UNPuQQh71rbaITyJy2cOSNpoYOlyR2l7aENcnN2lcNb4)
+![Today we got BIG news!](../.gitbook/assets/image%20%285%29.png)
 
 ### **Schools, parks, and restaurants are closing because of something called Coronavirus.** 
 
@@ -42,13 +42,15 @@ Video courtesy of Elena Perez, @elena4prez on Instagram
 
 ### Physical distancing is why schools, stores, and movie theaters are closed right now. Let’s stay home to stop Coronavirus. 
 
-![](https://lh6.googleusercontent.com/YhrpKLVjgsnm7GRNl4vmHS0AFzF2k-8qFjWBIUFKhUVAkDDAEoAWe07bt7lWI39GMIcvQ6SVXfV-sFK70XA4BQbFeyXYrQu0ppfXqVGSYofc2g2F6DqjNNSDskpsT4rsa_hnpQ-M)
+![When we stay home from school, it helps us stay healthy.](../.gitbook/assets/image.png)
 
 ### Grown-ups are working together to stop coronavirus and keep everyone healthy. Doctors, nurses, truck drivers, grocery store workers, and even moms and dads are all helping.  ****
 
-![Grown-ups are working very hard to stop coronavirus.](../.gitbook/assets/image%20%283%29.png)
+![Grown-ups are working very hard to stop coronavirus.](../.gitbook/assets/image%20%286%29.png)
 
 ### **And YOU can help too! Click on the next lesson to learn how you can be a GERM BUSTER and help fight coronavirus.** 
+
+![](../.gitbook/assets/germ-buster-1.png)
 
 ![](https://lh6.googleusercontent.com/icl9Pt5Oi2shc-0uSPqKAmkW9MvAr9XZcC_AxqMjx99E3vmh7QXj0SgMnkPcWn8X_1qBPRninp6WH76pTHhza-jUplVsN-6ZcQT9_yoWr5eqFbtYCbFZamELuc5xoqGCTZKXqVf1)
 
