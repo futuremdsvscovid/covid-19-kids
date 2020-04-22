@@ -65,9 +65,9 @@ When you have an infection, your body tells your blood vessels to be more leaky 
 
 In ARDS, there is fluid in the alveoli. The ventilator’s PEEP setting helps give extra pressure to push the fluid out of the alveolus so that it can be reabsorbed into the capillary and allow for air exchange.
 
-![](https://lh5.googleusercontent.com/iXBEL9EQt9ixB1QWy3Dcs-frhgKKQQiozc_-cKyIDBi-cXFTj_rCswCxD7fHHU1dE4LsObI_voTQ7oMynPkEdvE_Zo6H0h1e3xW3lyDE1dmiRYdTpGRlM2Vdt4bi3y9iZwUvseGt)
+![](../.gitbook/assets/image.png)
 
-Source: [OnlineMedEd](https://onlinemeded.org/spa/pulmonology/ards)
+Source: Created by Jessica Laird
 
 ### **What other treatments do we have for COVID-19?** 
 
