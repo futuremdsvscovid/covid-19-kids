@@ -30,7 +30,7 @@ _Students at Harvard Medical School_
 
 HMS COVID-19 Student Response Team, [Education for Broader Community](https://covidstudentresponse.org/about/)
 
-For specific inquiries about a section, additional contact information is provided at the top of each page.   
+For specific inquiries about a section, additional contact information is provided on the "Start Here" page.   
   
   
   
