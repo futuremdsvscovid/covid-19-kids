@@ -18,10 +18,10 @@
 
 * [COVID-19 Middle School Curriculum - Start Here](middle-school/untitled/README.md)
   * [Caregiver/Teacher Guide](middle-school/untitled/caregiver-teacher-guide.md)
+  * [Extra resources](middle-school/untitled/extra-resources.md)
 * [Middle School Learning Modules](middle-school-learning-modules/README.md)
   * [Part 1: Building Background Knowledge](middle-school-learning-modules/what-is-a-virus-what-is-coronavirus.md)
   * [Part 2: Action and Exploration](middle-school-learning-modules/so-how-did-this-all-happen.md)
-  * [Extra resources](middle-school-learning-modules/extra-resources.md)
 
 ## High School/College <a id="high-school"></a>
 

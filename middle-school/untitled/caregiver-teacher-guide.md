@@ -18,7 +18,7 @@ This can be a very stressful time for children and caregivers, alike. Focusing o
 
 All of the printables found in this curriculum can be downloaded here:
 
-{% page-ref page="../../middle-school-learning-modules/extra-resources.md" %}
+{% page-ref page="extra-resources.md" %}
 
 
 
