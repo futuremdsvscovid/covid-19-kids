@@ -8,7 +8,7 @@
 
 Source: [https://covid19healthliteracyproject.com](https://covid19healthliteracyproject.com)
 
-Visit the website for translations to over 30 languages, and sheets for adults!
+Visit the website to download translations to over 30 languages, and sheets for adults!
 
 ### **For more coloring sheets and age-appropriate information about coronavirus designed just for kids, visit** [**www.coloringforcovid.com**](http://www.coloringforcovid.com/)**.** 
 
