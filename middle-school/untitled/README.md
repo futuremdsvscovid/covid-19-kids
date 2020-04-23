@@ -12,7 +12,7 @@
 
 **Student Reviewers:** Margaret Irwin \[1\], Chandler Moore \[1\], Rachel Reardon \[1\], Katie Kester \[1\]
 
-_\[1\] Harvard Medical School, \[2\] Massachusetts Institute of Technology, \[3\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[4\] Boston Children’s Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Clinical Social Work_
+_\[1\] Harvard Medical School, \[2\] Massachusetts Institute of Technology, \[3\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[4\] Boston Children’s Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Department of Social Work_
 
 ## **Introduction:**
 

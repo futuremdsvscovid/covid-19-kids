@@ -10,7 +10,7 @@
 
 **Student Reviewers:** Jessica Laird \[1\], Priya Shah \[1\], Rachel Reardon \[1\], Katie Kester \[1\]
 
-_\[1\] Harvard Medical School, \[2\] ECU Brody School of Medicine, \[3\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[4\] Boston Children's Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Department of Psychiatry, \[6\] Boston Children's Hospital, Director of Environmental Medicine, \[7\] Boston Children's Hospital, Clinical Social Work_
+_\[1\] Harvard Medical School, \[2\] ECU Brody School of Medicine, \[3\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[4\] Boston Children's Hospital, Division of Emergency Medicine, \[5\] Boston Children's Hospital, Department of Psychiatry, \[6\] Boston Children's Hospital, Director of Environmental Medicine, \[7\] Boston Children's Hospital, Department of Social Work_
 
 **Teacher/Family Reviewers:**  Mrs. Samantha Rouse, Lower and Middle School Art Teacher, Arendell Parrott Academy; Ms. Wendy Burr, 3rd Grade Teacher, St. Timothy's School; Mrs. Wendy Riley, 2nd Grade Teacher, Arendell Parrott Academy; Dr. Jenny Wood Crowley, PhD, Parent, Academic Dean, Duke University; Dr. Adam Hollowell, PhD, Parent, Senior Research Associate, Samuel DuBois Cook Center on Social Equity; Dr. Jesse Summers, PhD, Parent, Academic Dean, Duke University; Cora, 7-year-old
 

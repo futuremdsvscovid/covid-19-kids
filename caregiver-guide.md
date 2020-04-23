@@ -13,9 +13,9 @@ description: >-
 
 **Student Reviewers:** Rachel Reardon \[1\], Chandler Moore \[1\], Logan Beyer \[1\], Margaret Irwin \[1\]
 
-**Faculty Reviewers:** Gene Beresin, MD \[2\], Rachel Conrad, MD \[3\], Janis Arnold, MSW, LICSW \[3\]
+**Faculty Reviewers:** Gene Beresin, MD \[2\], Rachel Conrad, MD \[3\], Janis Arnold, MSW, LICSW \[4\]
 
-_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[3\] Boston Children's Hospital, Department of Psychiatry, \[4\] Boston Children’s Hospital, Clinical Social Work_
+_\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[3\] Boston Children's Hospital, Department of Psychiatry, \[4\] Boston Children’s Hospital, Department of Social Work_
 
 This can be a very stressful time for children and caregivers alike. It can be hard to know how to support children during this unprecedented time with a lot of changes to your daily routine. Below are some tips to help you navigate this new situation. 
 
