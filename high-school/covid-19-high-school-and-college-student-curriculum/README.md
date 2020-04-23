@@ -12,7 +12,7 @@ jessica\_laird@hms.harvard.edu
 
 **Student Reviewers:** Chandler Moore \[1\], Katie Kester \[1\], Kendall Carpenter \[1\], Priya Shah \[1\], Rachel Reardon \[1\]
 
-_\[1\] Harvard Medical School, \[2\] Boston Children’s Hospital, Division of Medical Critical Care, \[3\] Massachusetts General Hospital for Children, Department of Child and Adolescent Psychiatry, \[4\] Teachers, Harvard Medical School MEDScience_
+_\[1\] Harvard Medical School, \[2\] Boston Children’s Hospital, Division of Medical Critical Care, \[3\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[4\] Teachers, Harvard Medical School MEDScience_
 
 ## Who is this curriculum for?
 
