@@ -1,5 +1,7 @@
 # COVID-19 Elementary Curriculum - Start Here
 
+![Graphic by Hae Lin Cho](../../.gitbook/assets/untitled_artwork-7.png)
+
 **Student Authors:** Logan Beyer \[1\], Margaret Irwin \[1\], and Chandler Moore \[1\]
 
 **Contact:** logan\_beyer@hms.harvard.edu

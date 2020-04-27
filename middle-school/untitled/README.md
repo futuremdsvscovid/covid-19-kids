@@ -1,5 +1,7 @@
 # COVID-19 Middle School Curriculum - Start Here
 
+![Graphic by Pamela Chen](../../.gitbook/assets/covid-middle-school.png)
+
 **Medical Student Authors:** Kendall Carpenter \[1\], Priya Shah \[1\], Audrey Effenberger \[2\]
 
 **Contact**: kendall\_carpenter@hms.harvard.edu

@@ -1,5 +1,7 @@
 # Welcome to COVID-19 Classroom!
 
+![Graphic by Constance Wu](.gitbook/assets/intro-page-fixed.jpg)
+
 During this global pandemic, everyone is facing questions and uncertainty, including children and adolescents. Sifting through all of the available information and resources to navigate these conversations in effective and age-appropriate ways can feel overwhelming for caregivers and teachers who are facing so many shifting responsibilities. 
 
 As a team of students at Harvard Medical School, we believe it is critical for students of all ages to have access to accurate, engaging, and developmentally-appropriate information about COVID-19 and how it is impacting their lives, as well as resources to help them effectively cope with the stress and anxiety they are likely facing. We have synthesized available information about Coronavirus to craft curricula for elementary, middle, and high school students in formats that are uniquely tailored to each age group’s needs and abilities:
