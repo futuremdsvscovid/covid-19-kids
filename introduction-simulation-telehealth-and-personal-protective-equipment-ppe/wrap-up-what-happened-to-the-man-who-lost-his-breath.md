@@ -101,7 +101,11 @@ In addition, this [handout from CHU Ste-Justine](https://www.cps.ca/uploads/blog
 * [World Health Organization \(WHO\) ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [Center for Disease Control \(CDC\)](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 
-The most important things we can all do to help include following guidelines of physical distancing as long as they are in place, washing our hands well, keeping in good virtual contact with loved ones \(especially those living alone\) and taking care of our mental wellness. While it’s good to seek out reliable information and guidance from trusted sources \(like the WHO and the CDC\), it’s also important to monitor your own emotional wellness. Engaging in activities like journaling, meditating, exercising, yoga, deep breathing, and talking to people you trust about how you are feeling are great ways to care for yourself during this tumultuous time. Proceed onto the next section to learn more about how to take care of yourself and others during COVID-19.  
-  
+The most important things we can all do to help include following guidelines of physical distancing as long as they are in place, washing our hands well, keeping in good virtual contact with loved ones \(especially those living alone\) and taking care of our mental wellness. While it’s good to seek out reliable information and guidance from trusted sources \(like the WHO and the CDC\), it’s also important to monitor your own emotional wellness. Engaging in activities like journaling, meditating, exercising, yoga, deep breathing, and talking to people you trust about how you are feeling are great ways to care for yourself during this tumultuous time. If you haven't already, proceed to   
+the guide on "Caring for Yourself and Others during COVID-19" now:  
+
+
+{% page-ref page="../high-school/covid-19-high-school-and-college-student-curriculum/caring-for-yourself-and-others-during-covid-19.md" %}
+
 
 
