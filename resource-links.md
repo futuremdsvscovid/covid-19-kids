@@ -28,5 +28,17 @@ This video from Richard Weissbourd, a senior lecturer at the Harvard Graduate Sc
 
 These video clips from the Camp Cope-A-Lot online program help children learn how to handle stress and anxiety.
 
+### [Resources to boost your child's wellbeing during the Covid-19 lockdown](https://www.partnershipforchildren.org.uk/what-we-do/childrens-wellbeing-activities-for-teaching-staff-and-families.html)
+
+These 10-minute activities from the Partnership for Children \(UK\) can augment emotional expression and resilience
+
+### ["My Hero is You" - how kids can fight COVID-19!](https://interagencystandingcommittee.org/system/files/2020-04/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19.pdf)
+
+This storybook produced by the Inter-Agency Standing Committee of the WHO can inspire children to help prevent the spread of COVID-19
+
+### [How to explain Coronavirus to a child with anxiety](https://www.additudemag.com/explain-coronavirus-covid-19-anxiety-adhd-child/)
+
+This article from ADDitude magazine can be particularly useful for interactions with children who have anxiety or ADD/ADHD
+
 
 
