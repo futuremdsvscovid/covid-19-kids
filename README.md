@@ -12,6 +12,10 @@ As a team of students at Harvard Medical School, we believe it is critical for s
 
 All of the materials published have been reviewed by faculty experts in medicine and child psychiatry and development. We have made every effort to ensure that these curricula will provide age-appropriate, accurate, and empowering information for children and teens, but we advise parents and teachers to review materials first to determine their appropriateness for each individual student. Some students may benefit more from a curriculum outside of their own age group based on developmental and educational progress. Please feel free to share these materials with anyone you think may find them useful! We encourage you to fill out our [guest book](https://forms.gle/zYciv2KbbmJmBN2X8) so that we can see how many students access the site.
 
+As of May 1st, 2020, the curriculum has been accessed by over 1,200 users from 26 different countries!
+
+![Map showing users based on their country](.gitbook/assets/screen-shot-2020-04-30-at-10.47.20-pm.png)
+
 These curricula were entirely written and compiled by Harvard Medical School students, and nothing contained on this website is an official publication of the institution. Our materials do not constitute medical advice, and are provided solely as an educational resource.
 
 Please share your [feedback here](https://forms.gle/VV2QKz6WL2WRQ8Bm6).
