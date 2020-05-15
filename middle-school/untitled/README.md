@@ -47,3 +47,7 @@ At the end of this activity, we hope students will be able to:
 5. **Identify** one question that they still have about COVID-19 and design a study for how we might be able to discover the answer. 
 6. **Create** a personal stress action plan with activities/approaches they can use if they are feeling stressed during this uncertain time.
 
+## Are you interested in a medical student tutor?
+
+COVID Classroom is excited to partner with COVID-19 Classes for Kids! COVID-19 Classes for Kids \(CCFK\), spearheaded by medical students at the University of California, San Francisco \(UCSF\), is mobilizing health professions graduate students across the USA to teach free, interactive virtual classes about COVID-19 to children who are currently “sheltering in place” at home. If you or your child/student are interested in working through this curriculum with a medical student tutor, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScw9HAE9FDWLBmEbcC3DSrSABlKuJ6rGaoO6rA-6abwQ-LflQ/viewform).
+

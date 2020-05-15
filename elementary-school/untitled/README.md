@@ -20,6 +20,10 @@ _\[1\] Harvard Medical School, \[2\] ECU Brody School of Medicine, \[3\] Massach
 
 This section contains two series of modules: one for grades 1-3, and one for grades 4-6. Both will guide students through interactive coloring pages, which are linked throughout the materials and as printable pdf's below. Children can work through the website and pages on their own, or teachers/parents can use the guide on the next page to work through it with them.
 
+## Are you interested in a medical student tutor?
+
+COVID Classroom is excited to partner with COVID-19 Classes for Kids! COVID-19 Classes for Kids \(CCFK\), spearheaded by medical students at the University of California, San Francisco \(UCSF\), is mobilizing health professions graduate students across the USA to teach free, interactive virtual classes about COVID-19 to children who are currently “sheltering in place” at home. If you or your child/student are interested in working through this curriculum with a medical student tutor, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScw9HAE9FDWLBmEbcC3DSrSABlKuJ6rGaoO6rA-6abwQ-LflQ/viewform).
+
 
 
 
