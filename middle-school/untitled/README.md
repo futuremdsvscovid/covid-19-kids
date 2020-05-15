@@ -49,5 +49,5 @@ At the end of this activity, we hope students will be able to:
 
 ## Are you interested in a medical student tutor?
 
-COVID Classroom is excited to partner with COVID-19 Classes for Kids! COVID-19 Classes for Kids \(CCFK\), spearheaded by medical students at the University of California, San Francisco \(UCSF\), is mobilizing health professions graduate students across the USA to teach free, interactive virtual classes about COVID-19 to children who are currently “sheltering in place” at home. If you or your child/student are interested in working through this curriculum with a medical student tutor, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScw9HAE9FDWLBmEbcC3DSrSABlKuJ6rGaoO6rA-6abwQ-LflQ/viewform).
+COVID-19 Classes for Kids \(CCFK\), spearheaded by medical students at the University of California, San Francisco \(UCSF\), is mobilizing health professions graduate students across the USA to teach these modules to children who are currently “sheltering in place” at home. If you or your child/student are interested in working through this curriculum with a medical student tutor, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScw9HAE9FDWLBmEbcC3DSrSABlKuJ6rGaoO6rA-6abwQ-LflQ/viewform).
 
