@@ -51,6 +51,10 @@ _At the end of simulation, students should be able to:_
 * Name the emotional, social, and psychological impact that the COVID-19 pandemic may be taking on individuals, families, and communities 
 * Describe positive coping skills and know of resources to help people get through the emotional, social, and psychological challenges of the COVID-19 pandemic 
 
+## Are you interested in a medical student tutor?
+
+COVID-19 Classes for Kids \(CCFK\), spearheaded by medical students at the University of California, San Francisco \(UCSF\), is mobilizing health professions graduate students across the USA to teach these modules to children who are currently “sheltering in place” at home. If you or your child/student are interested in working through this curriculum with a medical student tutor, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScw9HAE9FDWLBmEbcC3DSrSABlKuJ6rGaoO6rA-6abwQ-LflQ/viewform).
+
 ## Table of Contents
 
 \*\*\*\*[**Caring for Yourself and Others during COVID-19**](caring-for-yourself-and-others-during-covid-19.md)\*\*\*\*
