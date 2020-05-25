@@ -14,5 +14,9 @@ Visit the website to download translations to over 30 languages, and sheets for 
 
 ### **The National Child Traumatic Stress Network.** [**Supporting Children During Coronavirus \(COVID19\)**](https://www.nctsn.org/resources/supporting-children-during-coronavirus-covid19) **and**  [**Parent/Caregiver Guide to Helping Families Cope With the Coronavirus Disease 2019**](https://www.nctsn.org/resources/parent-caregiver-guide-to-helping-families-cope-with-the-coronavirus-disease-2019)
 
-###   
+### Ramona and Iris and the Coronavirus
+
+{% file src="../../.gitbook/assets/ramona-and-iris-and-the-coronavirus \(2\).pdf" %}
+
+Written and illustrated by 2 medical students, this is a rhyming picture book targeted towards 5-9 year olds designed to teach children the basics of staying safe during the Coronavirus pandemic.
 
