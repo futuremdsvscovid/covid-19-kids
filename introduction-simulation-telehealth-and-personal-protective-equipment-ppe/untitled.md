@@ -177,7 +177,9 @@ Complete the quiz below before moving on:
       </td>
     </tr>
   </tbody>
-</table>## Check-in 4:
+</table>
+
+## Check-in 4:
 
 Complete the quiz below before moving on
 

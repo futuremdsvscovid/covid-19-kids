@@ -10,9 +10,11 @@ We’ve heard your questions and put together an interactive website to help ans
 
 Please download or print out the COVID-19 worksheet and complete it as you go through the module:
 
-{% file src="../.gitbook/assets/middleschool\_covid19worksheet.docx" caption="WordDoc Worksheet" %}
+\*Please note that these worksheets were updated on 6/22 for clarity
 
-{% file src="../.gitbook/assets/middleschool\_covid19worksheet.pdf" caption="PDF Worksheet" %}
+{% file src="../.gitbook/assets/middle-school-worksheet-word-doc.docx" caption="Word Doc Worksheet" %}
+
+{% file src="../.gitbook/assets/middle-school-worksheet-pdf.pdf" caption="PDF Worksheet" %}
 
  Now let’s get started…
 

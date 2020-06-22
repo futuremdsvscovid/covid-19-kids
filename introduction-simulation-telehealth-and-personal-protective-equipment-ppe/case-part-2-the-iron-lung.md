@@ -80,7 +80,9 @@ Source: [Alamy](https://c8.alamy.com/comp/JAWFYG/unconscious-male-patient-lying-
       <td style="text-align:left">--</td>
     </tr>
   </tbody>
-</table>## Check-in 6:
+</table>
+
+## Check-in 6:
 
 Complete the quiz below before moving on:
 
@@ -181,7 +183,9 @@ If you want to learn more about ventilators and practice controlling the ventila
       <td style="text-align:left">--</td>
     </tr>
   </tbody>
-</table>The patient’s vital signs look a lot better thanks to your intervention, great job!
+</table>
+
+The patient’s vital signs look a lot better thanks to your intervention, great job!
 
 ## **Check-in 8:**
 

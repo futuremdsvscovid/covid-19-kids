@@ -56,7 +56,7 @@ Now that you've learned a little about the immune system’s response to viruses
   * The people with these lung infections had visited a market which suggested the virus was transmitted to humans from an animal \(possibly a bat\).
 * **Early January 2020 -** The cause of these lung infections is found to be a new virus that has never been seen in humans before. Doctors think that the virus may have originally come from a virus that used to only infect animals. 
   * * Some viruses began in animals, like Swine flu \(pigs\) and Bird flu. This one may have come from bats. However once it became infectious to humans, the animals from which it came is no longer a problem. 
-* **January 12th, 2020 -** China shares information about the new virus’s DNA  with the world.
+* **January 12th, 2020 -** China shares information about the new virus’s genomic sequence  with the world.
   * * Why is this important? **\(Go to your worksheet to answer the question\)**
 * **January 13th, 2020 -** Thailand reports a person infected with this new virus.
   * This is the first case reported outside of China, indicating that the virus was spreading.
