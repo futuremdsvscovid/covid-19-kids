@@ -4,6 +4,11 @@
 * [Caregiver/Teacher Guide](caregiver-guide.md)
 * [More Resource Links](resource-links.md)
 
+## Translations <a id="translations-espanol-and-francais-1"></a>
+
+* [Español](translations-espanol-and-francais-1/espanol.md)
+* [Français](translations-espanol-and-francais-1/francais.md)
+
 ## Young Children \(0-5\)
 
 * [Parents/Caregivers of Young Children: Start Here](young-children-0-5/parents-caregivers-of-young-children-start-here/README.md)
