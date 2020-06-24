@@ -4,6 +4,18 @@
 * [Caregiver/Teacher Guide](caregiver-guide.md)
 * [More Resource Links](resource-links.md)
 
+## Young Children \(0-5\)
+
+* [Parents/Caregivers of Young Children: Start Here](young-children-0-5/parents-caregivers-of-young-children-start-here/README.md)
+  * [For New Parents](young-children-0-5/parents-caregivers-of-young-children-start-here/for-new-parents.md)
+  * [Managing the Day-to-Day](young-children-0-5/parents-caregivers-of-young-children-start-here/managing-the-day-to-day.md)
+  * [Supporting Your Young Child's Development](young-children-0-5/parents-caregivers-of-young-children-start-here/supporting-your-young-childs-development.md)
+  * [Stress Management and Resiliency-Building](young-children-0-5/parents-caregivers-of-young-children-start-here/stress-management-and-resiliency-building.md)
+  * [Activities](young-children-0-5/parents-caregivers-of-young-children-start-here/activities.md)
+  * [What should I tell my child about COVID-19?](young-children-0-5/parents-caregivers-of-young-children-start-here/what-should-i-tell-my-child-about-covid-19.md)
+  * [Additional Resources](young-children-0-5/parents-caregivers-of-young-children-start-here/additional-resources.md)
+  * [References](young-children-0-5/parents-caregivers-of-young-children-start-here/references.md)
+
 ## Elementary School
 
 * [COVID-19 Elementary Curriculum - Start Here](elementary-school/untitled/README.md)
