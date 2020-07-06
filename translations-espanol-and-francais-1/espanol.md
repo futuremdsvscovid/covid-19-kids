@@ -28,3 +28,9 @@
 
 [Español - Hoja de trabajo](https://docs.google.com/document/d/1YbLvgUdI9e1sIuhG9Ck-pv7XMVCwvvcKG_5jiQnYElg/edit?usp=sharing)
 
+## High School & College/Estudiantes Secundarios y Universitarios
+
+[English/Español - High School/College Curriculum](https://docs.google.com/document/d/1TWhrD015sI2UrA5bziYDAZ4mUUJhMviFzQ5XiD_lkoQ/edit)
+
+[Español - Estudiantes Secundarios y Universitarios](https://docs.google.com/document/d/181AhCENI9cjl2XNn5i8sP3ZzZSamtTMxdETcpNydrHQ/edit)
+
