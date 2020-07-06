@@ -6,7 +6,9 @@ The role of parents during the first few months of their child’s life is to �
 
 Sometimes, this can feel challenging when your baby is fussy or doesn’t sleep well. One way to soothe an infant is by using the [5 S’s](https://childrensmd.org/browse-by-age-group/newborn-infants/5s-method-soothing-baby/): Swaddling, Side/stomach positioning \(for holding, not for sleeping\), Shushing, Swinging, and Sucking.
 
-These first few months can be exhausting. Finding and enjoying the “magic moments” of connection, playfulness, and pleasure are important during these potentially stressful early months.   
+These first few months can be exhausting. Finding and enjoying the “magic moments” of connection, playfulness, and pleasure are important during these potentially stressful early months. 
+
+  
 Click [here](https://www.healthychildren.org/English/ages-stages/baby/crying-colic/Pages/Tips-for-Coping-with-a-New-Baby.aspx) for other tips on caring for a newborn during the pandemic from the American Academy of Pediatrics.
 
 ## Caring for Yourself
@@ -28,8 +30,7 @@ If you begin to feel that life is not worth living, think about hurting yourself
 * Go to the nearest emergency room;
 * Call the National Suicide Prevention Hotline at 1-800-273-8255 or reach them [online here](https://suicidepreventionlifeline.org/); 
 * Call or text the [HopeLine](https://www.hopeline-nc.org/) at 919-231-4525 or 877-235-4525; and/or
-
-Text the [Crisis Text Line](https://www.crisistextline.org/) by texting HOME to 741741 to connect with a Crisis Counselor.
+* Text the [Crisis Text Line](https://www.crisistextline.org/) by texting HOME to 741741 to connect with a Crisis Counselor.
 
 [References](references.md#for-new-parents)
 

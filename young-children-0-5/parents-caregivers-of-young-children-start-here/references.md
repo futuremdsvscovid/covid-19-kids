@@ -136,8 +136,10 @@ Sources consulted are ordered by section and subsection.
 
 ## **What should I tell my child about COVID-19?**
 
-* [**https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-climate-safety-and-crisis/health-crisis-resources/helping-children-cope-with-changes-resulting-from-covid-19**](https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-climate-safety-and-crisis/health-crisis-resources/helping-children-cope-with-changes-resulting-from-covid-19)
-* [**https://www.aacap.org/App\_Themes/AACAP/Docs/latest\_news/2020/Coronavirus\_COVID19\_\_Children.pdf**](https://www.aacap.org/App_Themes/AACAP/Docs/latest_news/2020/Coronavirus_COVID19__Children.pdf)
+* \*\*\*\*[**https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-climate-safety-and-crisis/health-crisis-resources/helping-children-cope-with-changes-resulting-from-covid-19**](https://www.nasponline.org/resources-and-publications/resources-and-podcasts/school-climate-safety-and-crisis/health-crisis-resources/helping-children-cope-with-changes-resulting-from-covid-19)\*\*\*\*
+* [h**ttps://www.aacap.org/App\_Themes/AACAP/Docs/latest\_news/2020/Coronavirus\_COVID19\_\_Children.pdf**](https://www.aacap.org/App_Themes/AACAP/Docs/latest_news/2020/Coronavirus_COVID19__Children.pdf)
 * [**https://www.zerotothree.org/resources/3265-answering-your-young-child-s-questions-about-coronavirus**](https://www.zerotothree.org/resources/3265-answering-your-young-child-s-questions-about-coronavirus)
 * [**https://covid19healthliteracyproject.com/\#english**](https://covid19healthliteracyproject.com/#english)
+
+
 
