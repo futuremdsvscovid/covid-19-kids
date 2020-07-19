@@ -2,9 +2,13 @@
 
 ## Introduction/**Bienvenue**
 
+[English/Français - Introduction](https://docs.google.com/document/d/1GRGNZ_9ntXj_zD8nTNkeslYdIEdfkSzhtb_HUgoXjRc/edit?usp=sharing)
+
 [Français ****- Bienvenue](https://docs.google.com/document/d/12tJwduH-KnkImb-QS_xzGidzjF7CkM2vT9q9SqWMrHc/edit?usp=sharing)
 
 ## Caregiver guide/Gu**ide aux parents**
+
+[English/Français - Caregiver/parent guide](https://docs.google.com/document/d/12_WqROtXKcB5J9f25pK_uU8wfXXbBX29-rY0Q_U9ni0/edit?usp=sharing)
 
 [Français - Guide aux parents](https://docs.google.com/document/d/1oFO0gjya7Zj-QqMQnm_-pqbwQSavydnaeJNIxgLLJV4/edit?usp=sharing)
 
