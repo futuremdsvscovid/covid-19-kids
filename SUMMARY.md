@@ -33,6 +33,7 @@
 * [Grades 4-6](grades-4-6/README.md)
   * [Module 1: What is Coronavirus?](grades-4-6/module-1-what-is-coronavirus.md)
   * [Module 2: How can I help?](grades-4-6/module-2-how-can-i-help.md)
+* [Summer Activities](summer-activities.md)
 
 ## Middle School
 
