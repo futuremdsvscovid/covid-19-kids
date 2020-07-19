@@ -28,3 +28,9 @@
 
 
 
+## High School & College/N**iveaux lycée et Université**
+
+[English/Français - High School/College Curriculum](https://docs.google.com/document/d/15rWj2cEi8Ufy9OH9-MzDCO3J5ByAD8Mp12v5GSMEQCo/edit?usp=sharing)
+
+[Français - Pour lycéen.ne.s et étudiantes universitaires](https://docs.google.com/document/d/1lxlB_5M5NcpuJpZTeOPljjRNWm4mMUQdaPnBxq7W7k8/edit?usp=sharing)
+
