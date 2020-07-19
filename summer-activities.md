@@ -20,8 +20,7 @@ Donna Fialkowski, M.Ed., _Special Education Teacher, Atlanta City Public School 
 
 Juliana H. Chen, M.D., _Child and Adolescent Psychiatrist, Massachusetts General Hospital/Harvard Medical School and Newton-Wellesley Hospital_
 
-Rachel Conrad, M.D. _Child and Adolescent Psychiatrist, Boston Children’s Hospital, Harvard Medical School_  
-
+Rachel Conrad, M.D. _Child and Adolescent Psychiatrist, Boston Children’s Hospital, Harvard Medical School_
 
 **Student Reviewers:** Mengting Qiu, Chandler Moore, Rachel Reardon _\(Harvard Medical School\),_ Toke Odimayomi _\(Harvard T.H. Chan School of Public Health\)_
 

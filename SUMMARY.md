@@ -46,6 +46,7 @@
 * [Middle School Learning Modules](middle-school-learning-modules/README.md)
   * [Part 1: Building Background Knowledge](middle-school-learning-modules/what-is-a-virus-what-is-coronavirus.md)
   * [Part 2: Action and Exploration](middle-school-learning-modules/so-how-did-this-all-happen.md)
+* [Summer Activities](summer-activities-1.md)
 
 ## High School/College <a id="high-school"></a>
 
