@@ -24,7 +24,7 @@
 
 [Français - Pour les élèves du collège](https://docs.google.com/document/d/1AWQKUGgoj1wZAhGSCjZQ4hyKi7Ec3F17ezlgfUHBMvM/edit?usp=sharing)
 
-[English/Français - Middle school worksheet](https://docs.google.com/document/d/19COCcnWMa9lSs3h8uwBxTMuXO8YyKlA1M8pBruS0Nhs/edit?usp=sharing)
+[English/Français - Middle school worksheet](https://docs.google.com/document/d/1r9-UTbCOk0b2_-af1NLWDiSh1ksqArxKZCg5fAHS-ZE/edit?usp=sharing)
 
 [Français - Feuille d’exercices](https://docs.google.com/document/d/1m9MyccE-ek6BaOjC1sP5yxfQ3kk6nS5phK8IlosYoNA/edit?usp=sharing)
 
