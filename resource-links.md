@@ -38,11 +38,15 @@ This storybook produced by the Inter-Agency Standing Committee of the WHO can in
 
 ### [How to explain Coronavirus to a child with anxiety](https://www.additudemag.com/explain-coronavirus-covid-19-anxiety-adhd-child/)
 
-This article from ADDitude magazine can be particularly useful for interactions with children who have anxiety or ADD/ADHD
+This article from ADDitude magazine can be particularly useful for interactions with children who have anxiety or ADD/ADHD.
 
 ### Ramona and Iris and the Coronavirus
 
 {% file src=".gitbook/assets/ramona-and-iris-and-the-coronavirus.pdf" %}
 
 Written and illustrated by 2 medical students, this is a rhyming picture book for 5-9 year olds designed to teach children the basics of staying safe during the Coronavirus pandemic.
+
+### [Guide to Temporary Homeschooling](https://study.com/academy/popular/guide-to-temporary-homeschooling.html)
+
+This guide from study.com provides suggested answers to common questions that may arise for parents and caregivers interested in homeschooling their children this year.
 
