@@ -88,7 +88,7 @@ Source: [Verywell Health](https://www.verywellhealth.com/thmb/LDL2WghLx8tDzhzOm7
 
 Complete the quiz below before moving on
 
-{% embed url="https://benjaminlevy.typeform.com/to/Y11UAJ" %}
+{% embed url="https://www.fyrebox.com/play/covid-classroom-quiz-2\_GQ6r36oGE" %}
 
 ## Physical Exam
 
@@ -129,11 +129,7 @@ Source: [UCSD](https://meded.ucsd.edu/clinicalmed/lungs_auscutation.jpg)
 
 Complete the quiz below before moving on:
 
-{% embed url="https://benjaminlevy.typeform.com/to/kvrzz6" %}
-
-
-
-
+{% embed url="https://www.fyrebox.com/play/covid-classroom-quiz-3\_m7kynKQyG" %}
 
 **Nurse Morgan:** I rechecked Bob’s vitals after I gave him the treatment, here they are: 
 

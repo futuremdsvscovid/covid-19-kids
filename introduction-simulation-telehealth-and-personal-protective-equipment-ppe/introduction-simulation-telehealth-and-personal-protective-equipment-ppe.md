@@ -73,7 +73,7 @@ There is currently a shortage of personal protective equipment around the world.
 
 Complete the quiz below before moving on to the next module.
 
-{% embed url="https://benjaminlevy.typeform.com/to/kGr4HM" %}
+{% embed url="https://www.fyrebox.com/play/covid-classroom-quiz-1\_GQ6r1NBB2" %}
 
 
 

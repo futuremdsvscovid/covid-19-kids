@@ -191,7 +191,7 @@ The patient’s vital signs look a lot better thanks to your intervention, great
 
 Complete the quiz below before moving on:
 
-{% embed url="https://benjaminlevy.typeform.com/to/Kf6KvO" %}
+{% embed url="https://www.fyrebox.com/play/covid-classroom-quiz-8\_qNWrm2A1r" %}
 
 You have successfully treated a patient with COVID-19 and he made a full recovery! Proceed to the wrap up to learn more about COVID-19 and ARDS.
 
