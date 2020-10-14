@@ -12,7 +12,7 @@ As a team of students at Harvard Medical School, we believe it is critical for s
 
 All of the materials published have been reviewed by faculty experts in medicine and child psychiatry and development. We have made every effort to ensure that these curricula will provide age-appropriate, accurate, and empowering information for children and teens, but we advise parents and teachers to review materials first to determine their appropriateness for each individual student. Some students may benefit more from a curriculum outside of their own age group based on developmental and educational progress. Please feel free to share these materials with anyone you think may find them useful! We encourage you to fill out our [guest book](https://forms.gle/zYciv2KbbmJmBN2X8) so that we can see how many students access the site.
 
-As of June 25, 2020, the curriculum has been accessed by over 1,900 users from 26 different countries!
+As of October 14, 2020, the curriculum has been accessed by over 4,550 users from 97 different countries!
 
 ![](.gitbook/assets/map_6_25.png)
 
@@ -22,7 +22,7 @@ Please share your [feedback here](https://forms.gle/VV2QKz6WL2WRQ8Bm6).
 
 **The Pediatric Education Team**
 
-Rachel Reardon: Team Lead, **rachel\_reardon@hms.harvard.edu**
+Rachel Reardon: Founder, **rachel\_reardon@hms.harvard.edu**
 
 Margaret Irwin and Priya Shah: Managing Editors, **margaret\_irwin@hms.harvard.edu, priya\_shah@hms.harvard.edu**
 
