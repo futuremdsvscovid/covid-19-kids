@@ -14,7 +14,7 @@ All of the materials published have been reviewed by faculty experts in medicine
 
 As of October 14, 2020, the curriculum has been accessed by over 4,550 users from 97 different countries!
 
-![](.gitbook/assets/map_6_25.png)
+![](.gitbook/assets/img_7060.png)
 
 These curricula were entirely written and compiled by Harvard Medical School students, and nothing contained on this website is an official publication of the institution. Our materials do not constitute medical advice, and are provided solely as an educational resource.
 
