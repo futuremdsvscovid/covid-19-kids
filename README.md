@@ -22,9 +22,9 @@ Please share your [feedback here](https://forms.gle/VV2QKz6WL2WRQ8Bm6).
 
 **The Pediatric Education Team**
 
-Rachel Reardon: Team Lead
+Rachel Reardon: Team Lead, **rachel\_reardon@hms.harvard.edu**
 
-Contact: **rachel\_reardon@hms.harvard.edu**
+Margaret Irwin and Priya Shah: Managing Editors, **margaret\_irwin@hms.harvard.edu, priya\_shah@hms.harvard.edu**
 
 Chandler Moore, Logan Beyer, Margaret Irwin: Elementary Team
 
