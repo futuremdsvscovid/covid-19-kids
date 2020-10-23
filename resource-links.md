@@ -50,3 +50,7 @@ Written and illustrated by 2 medical students, this is a rhyming picture book fo
 
 This guide from study.com provides suggested answers to common questions that may arise for parents and caregivers interested in homeschooling their children this year.
 
+### [Coding for Resilience](https://bootcamp.cvn.columbia.edu/blog/how-coding-provides-skills-that-can-help-children-cope-with-distress/)
+
+Columbia Engineering shares information on how coding can provide an outlet for children to cope with stress and develop creativity and critical thinking skills. Links to coding activities for children from preschool to high school are also provided!
+
