@@ -9,12 +9,9 @@ description: >-
 
 ## **How to Support Kids and Teens Through the Coronavirus Pandemic**
 
-**Medical Student Author:** Priya Shah \[1\]
-
-**Student Reviewers:** Rachel Reardon \[1\], Chandler Moore \[1\], Logan Beyer \[1\], Margaret Irwin \[1\]
-
-**Faculty Reviewers:** Gene Beresin, MD \[2\], Rachel Conrad, MD \[3\], Janis Arnold, MSW, LICSW \[4\]
-
+**Medical Student Author:** Priya Shah \[1\]  
+**Student Reviewers:** Rachel Reardon \[1\], Chandler Moore \[1\], Logan Beyer \[1\], Margaret Irwin \[1\]  
+**Faculty Reviewers:** Gene Beresin, MD \[2\], Rachel Conrad, MD \[3\], Janis Arnold, MSW, LICSW \[4\]  
 _\[1\] Harvard Medical School, \[2\] Massachusetts General Hospital, Department of Psychiatry, Child Psychiatry Service, \[3\] Boston Children's Hospital, Department of Psychiatry, \[4\] Boston Children’s Hospital, Department of Social Work_
 
 This can be a very stressful time for children and caregivers alike. It can be hard to know how to support children during this unprecedented time with a lot of changes to your daily routine. Below are some tips to help you navigate this new situation. 
@@ -52,6 +49,4 @@ This can be a very stressful time for children and caregivers alike. It can be h
 * COVID-19 Health Literacy Project [Fact Sheets in 30+ Languages](https://covid19healthliteracyproject.com/)
 * MGH Clay Center for Young Healthy Minds [Coronavirus and Family Mental Health](https://www.mghclaycenter.org/coronavirus-and-family-mental-health/) and [7 Ways to Support Kids and Teens Through the Coronavirus Pandemic](https://www.mghclaycenter.org/hot-topics/7-ways-to-support-kids-and-teens-through-the-coronavirus-pandemic/)
 * The Wellness Society [Coronavirus Anxiety Workbook](https://thewellnesssociety.org/wp-content/uploads/2020/04/Coronavirus-Anxiety-Workbook.pdf)
-
-\*\*\*\*
 

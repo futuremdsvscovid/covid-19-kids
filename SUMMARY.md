@@ -9,6 +9,10 @@
 * [Español](translations-espanol-and-francais-1/espanol.md)
 * [Français](translations-espanol-and-francais-1/francais.md)
 
+## \*NEW\* Ethics Module
+
+* [Ethics in the Time of COVID-19](new-ethics-module/ethics.md)
+
 ## Young Children \(0-5\)
 
 * [Parents/Caregivers of Young Children: Start Here](young-children-0-5/parents-caregivers-of-young-children-start-here/README.md)
