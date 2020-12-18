@@ -4,7 +4,7 @@
 **Contact:** siennali@hms.harvard.edu  
 **Student Reviewers:** Priya Shah \[1\], Allison Fialkowski \[1\], Margaret Irwin \[1\]  
 **Faculty Reviewers:** Dr. Louise King \[1\] \[2\], Dr. Ned Palmer \[1\] \[3\]  
-_\[1\] Harvard Medical School, \[2\] Brigham and Women's Hospital \[3\] Boston Children’s Hospital_
+_\[1\] Harvard Medical School, \[2\] Brigham and Women's Hospital, \[3\] Boston Children’s Hospital_
 
 ### **What is ethics?** 
 
