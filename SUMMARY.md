@@ -8,7 +8,7 @@
 
 * [Español](translations/espanol.md)
 * [Français](translations/francais.md)
-* [\*NEW\* Japanese \(日本人\)](translations/japanese.md)
+* [\*NEW\* Japanese \(日本語\)](translations/japanese.md)
 
 ## \*NEW\* Ethics Module
 
