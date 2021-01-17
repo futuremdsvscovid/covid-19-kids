@@ -6,19 +6,19 @@
 
 [Français ****- Bienvenue](https://docs.google.com/document/d/12tJwduH-KnkImb-QS_xzGidzjF7CkM2vT9q9SqWMrHc/edit?usp=sharing)
 
-## Caregiver guide/Gu**ide aux parents**
+## Caregiver Guide/Gu**ide aux parents**
 
 [English/Français - Caregiver/parent guide](https://docs.google.com/document/d/12_WqROtXKcB5J9f25pK_uU8wfXXbBX29-rY0Q_U9ni0/edit?usp=sharing)
 
 [Français - Guide aux parents](https://docs.google.com/document/d/1oFO0gjya7Zj-QqMQnm_-pqbwQSavydnaeJNIxgLLJV4/edit?usp=sharing)
 
-## Elementary students/École élémentaire
+## Elementary School/École élémentaire
 
 [English/Français - Elementary curriculum](https://docs.google.com/document/d/1j3eCdqQPqa0RU-biw9axMw2IGbjZG4arpbddbZ4bCik/edit?usp=sharing)
 
 [Français - École élémentaire](https://docs.google.com/document/d/1qdzeL-vBI7e_9g2ii2k9LeLaAogc2gyOF72-5T8pP8o/edit?usp=sharing)
 
-## Middle school students/C**ollège**
+## Middle School/C**ollège**
 
 [English/Français - Middle school curriculum](https://docs.google.com/document/d/1GVeN5XqDoqVEGBLMgxw_-Vm0YpOwFRxqNr2Dx5yFXeU/edit?usp=sharing)
 
@@ -29,8 +29,6 @@
 [Français - Feuille d’exercices](https://docs.google.com/document/d/1m9MyccE-ek6BaOjC1sP5yxfQ3kk6nS5phK8IlosYoNA/edit?usp=sharing)
 
 [English/Français - Safety infographic/Graphique de sécurité](https://docs.google.com/document/d/1Eil0xzr-DYfPTXsEMIgInKZYhYOwLA566nj0wDe7NaM/edit?usp=sharing)
-
-
 
 ## High School & College/N**iveaux lycée et Université**
 
