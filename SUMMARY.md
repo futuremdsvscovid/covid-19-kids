@@ -4,11 +4,11 @@
 * [Caregiver/Teacher Guide](caregiver-guide.md)
 * [More Resource Links](resource-links.md)
 
-## Translations <a id="translations-espanol-and-francais-1"></a>
+## Translations
 
-* [Español](translations-espanol-and-francais-1/espanol.md)
-* [Français](translations-espanol-and-francais-1/francais.md)
-* [\*NEW\* Japanese \(日本人\)](translations-espanol-and-francais-1/japanese.md)
+* [Español](translations/espanol.md)
+* [Français](translations/francais.md)
+* [\*NEW\* Japanese \(日本人\)](translations/japanese.md)
 
 ## \*NEW\* Ethics Module
 
