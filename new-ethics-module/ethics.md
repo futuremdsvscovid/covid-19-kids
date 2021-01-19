@@ -14,7 +14,7 @@ This pandemic is not the first time in our history when ethical questions have a
 
 We’re going to work our way through some important questions that are currently being discussed all over the world. Keep in mind that these are difficult and controversial topics, and they often do not have a clear answer. 
 
-Quiz Question \#1: [https://www.fyrebox.com/play/ethics-module-quiz-1\_9Kk6OKyG9](https://www.fyrebox.com/play/ethics-module-quiz-1_9Kk6OKyG9)
+{% embed url="https://www.fyrebox.com/play/ethics-module-quiz-1\_9Kk6OKyG9" %}
 
 ### **Do medical professionals have a duty to treat COVID-19 patients, even if it puts them at increased risk of infection?** 
 
@@ -39,7 +39,7 @@ In general, many consider it the medical professional’s ethical duty to provid
 
 It is within one’s legal and ethical right to resign from a job. However, in most circumstances, medical providers cannot simply refuse to do their job, even for reasons of personal safety. Importantly, doctors are not the only people being asked to risk their health during this pandemic. Nurses and other essential employees \(housekeeping, maintenance, dietary staff etc.\) are paid much less and often must keep working to support their family or keep their insurance.
 
-Quiz Question \#2: [https://www.fyrebox.com/play/ethics-module-quiz-2\_yqWNAYB9W](https://www.fyrebox.com/play/ethics-module-quiz-2_yqWNAYB9W)
+{% embed url="https://www.fyrebox.com/play/ethics-module-quiz-2\_yqWNAYB9W" %}
 
 ### **How do we balance patient rights and confidentiality with effective contact tracing and quarantining?** 
 
@@ -56,7 +56,7 @@ While doctors have an ethical duty to maintain patient confidentiality and not d
 
 Given how deadly and contagious COVID-19 has proven to be, it is in the people’s best interest to keep hospitals and public agencies informed of any COVID-positive patients. This notification will not only help contain spread and reduce the risk of transmission to close contacts but could also help inform which areas we need to dedicate the most resources.
 
-Quiz Question \#3: [https://www.fyrebox.com/play/ethics-module-quiz-3\_5j68YN6Jj](https://www.fyrebox.com/play/ethics-module-quiz-3_5j68YN6Jj)
+{% embed url="https://www.fyrebox.com/play/ethics-module-quiz-3\_5j68YN6Jj" %}
 
 ### **How do we decide who gets which resources, especially when they are running out?** 
 
@@ -87,7 +87,7 @@ You might ask: what then, is a fair and equitable way to allocate scarce resourc
 
  Another [paper](https://www.nejm.org/doi/full/10.1056/NEJMp2008300) recommends using clinical “survivability” scores, instead of broad exclusions by demographic category, to determine the patients who are most likely to die without resources but and most likely to survive with them. This system allows for near-term survivability to be determined independently from disability and does not treat a year lived with a disability as inherently less valuable than a year lived without one.
 
-Quiz Question \#4: [https://www.fyrebox.com/play/ethics-module-quiz-4\_Vrx2JQE2n](https://www.fyrebox.com/play/ethics-module-quiz-4_Vrx2JQE2n)
+{% embed url="https://www.fyrebox.com/play/ethics-module-quiz-4\_Vrx2JQE2n" %}
 
 ### **Sources**
 
