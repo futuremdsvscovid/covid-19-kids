@@ -29,6 +29,9 @@ Rachel Reardon \(**rachel\_reardon@hms.harvard.edu\)**
 Margaret Irwin \(**margaret\_irwin@hms.harvard.edu**\)  
 Priya Shah \(**priya\_shah@hms.harvard.edu**\)
 
+**Young Children Team:**  
+Mengting Qiu, Chandler Moore, Toke Odimayomi
+
 **Elementary School Team:**   
 Chandler Moore, Logan Beyer, Margaret Irwin
 
@@ -40,6 +43,13 @@ Jessica Laird, Katie Kester
 
 _Students at Harvard Medical School_  
 HMS COVID-19 Student Response Team, [Education for Broader Community](https://covidstudentresponse.org/about/)
+
+**Current Team:   
+Managing Editors:** Margaret Irwin, Priya Shah _\(see above for contact information\)_  
+**Curriculum Updates:** Allison Fialkowski, Chandler Moore  
+**Ethics Module:** Sienna Li  
+**Social Justice Module:** Angela Bi  
+**Translations:** Brittany Wong, Yurika Kazama
 
 For specific inquiries about a section, additional contact information is provided on the "Start Here" page. 
 
