@@ -32,7 +32,7 @@ Now that you've learned a little about the immune system’s response to viruses
 * **Pandemic:** when a disease spreads to many people across many continents.
   * _How is a pandemic different from other diseases that are spread around the world?_ ****
     * The seasonal flu, which affects many people every year, is not a new disease. We have vaccines to prevent flu and medicines to treat flu. Though the flu can be dangerous, most people are somewhat immune due to past flu exposures.
-  * COVID-19 is a pandemic because it is the worldwide spread of a new disease. It seems that a higher percentage of people get more sick from COVID-19 than the flu. We do not yet have vaccines or medicines to effectively prevent or treat it. Very few or no people are immune because the virus is new. 
+  * COVID-19 is a pandemic because it is the worldwide spread of a new disease. It seems that a higher percentage of people get more sick from COVID-19 than the flu. Very few or no people are immune because the virus is new. 
   * Remember the video about our immune system? When our bodies see a virus, it creates these antibodies that latch onto the virus and allow our immune cells to kill the virus. These antibodies can protect us in the future if we come in contact with that virus again. We call this immunity. The virus was able to spread so rapidly because no one was immune to it yet. 
 
 ##  **What happens when you get COVID-19:**
