@@ -12,10 +12,6 @@
 
 [日本語 – 介護者ガイド](https://docs.google.com/document/d/1I4dgi47fLJb4XK3faEsLl1Dmn7TWjsC7Xkzr8MsFyjY/edit?usp=sharing)
 
-## Coloring Book/ぬり絵
-
-[English/日本語 – Coloring Book/ぬり絵](https://docs.google.com/document/d/1w5NjEmMLD-joyTx85R5prC99H-xbRTEqp8k7t5nBf3w/edit?usp=sharing)
-
 ## Pre-K/幼稚園前
 
 [English/日本語 – Pre-K](https://docs.google.com/document/d/1pNv7v6yN68KT3v73mGl3Nq9w17xKNLtb0yG53RQDUoE/edit?usp=sharing)
