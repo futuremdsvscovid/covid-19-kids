@@ -45,6 +45,7 @@ Now that you've learned a little about the immune system’s response to viruses
 
 * Children are more likely to be asymptomatic or have mild symptoms compared to adults if they get infected with the virus. 
 * But if you are infected \(even if you don’t have any symptoms\), the virus can still spread. The good news is that there are awesome safety tips \(discussed below\) that you can use to keep yourself and those you love safe and healthy! 
+* You may have heard people talking about children getting “Kawasaki disease” or “MIS-C” after having COVID-19. MIS-C is a very, very rare complication of COVID-19 that happens in a few children. Children with MIS-C can have symptoms such as stomach pain and a rash after getting COVID-19. MIS-C can also affect the heart, and that is why people get scared. Most children, however, recover quickly from COVID-19 and can go back to playing and learning as you normally do. If hearing about MIS-C makes you feel scared or worried, talk to a parent or teacher, so you can learn more
 
 ## **So how did this all happen?:**
 

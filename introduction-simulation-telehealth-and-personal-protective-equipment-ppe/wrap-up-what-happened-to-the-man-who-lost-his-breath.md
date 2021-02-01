@@ -74,7 +74,8 @@ Source: Created by Jessica Laird
 * Currently we do not have any specific treatments for COVID-19.
 * We help treat the specific symptoms each patient is experiencing  -- monitoring them for complications, tylenol for fevers, intravenous fluids for hydration, giving oxygen or ventilatory support to patients with respiratory difficulties. 
 * Many different treatments are being tested for efficacy in patients with COVID-19, but nothing has shown significant promise yet. The medications being tested out are ones that worked against MERS and SARS.  
-* We hope to eventually develop a vaccine against COVID-19. ****
+* We are starting to have a few medicines \(Remdesivir, dextamethasone\) that may help certain people who are sick with coronavirus. Doctors are still studying how effective these medications are.
+* Now we have a mRNA vaccine for COVID-19
 
 ### **What are we doing as a society to reduce the spread of COVID-19?** 
 
