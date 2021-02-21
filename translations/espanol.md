@@ -18,6 +18,12 @@
 
 [Español - Estudiantes del nivel primario](https://docs.google.com/document/d/1H7X5uPvAZ0wqp_HgRBk-V_5_ZPN3yawDBb_aF3Xdw3U/edit?usp=sharing)
 
+[Libro para colorear - Edades 5-6](https://static1.squarespace.com/static/5e861d9eeb07d628e1155796/t/5f2985b029fd4652dd68d677/1596556725247/Ages+5-6+SPANISH.pdf)
+
+[Libro para colorear - Edades 7-8](https://static1.squarespace.com/static/5e861d9eeb07d628e1155796/t/5f29887debde0b7eab85284f/1596557445259/Ages+7-8+SPANISH.pdf)
+
+[Libro para colorear - Edades 9-10](https://static1.squarespace.com/static/5e861d9eeb07d628e1155796/t/5f2985f0622253416abe9345/1596556789872/Ages+9-10+SPANISH.pdf)
+
 ## Middle School/Nivel Intermedio
 
 [English/Español - Middle school curriculum](https://docs.google.com/document/d/1r1oUDoFOtLYkDmvT2FHQRruCYvcu2qcGTK3tv5KXTOQ/edit?usp=sharing)
