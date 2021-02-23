@@ -38,5 +38,5 @@
 
 – [Scientific Method/科学的方法](https://drive.google.com/file/d/12ZgMa6vEbMQCkbvWyW45BR-ppaKHRqQ8/view?usp=sharing)
 
-[– Coronavirus Timeline/新型コロナウイルスのタイムライン](https://drive.google.com/file/d/1bNKrOrAGmfKci9yL9QdmGvld_Slgo2LM/view?usp=sharing)
+– [Coronavirus Timeline/新型コロナウイルスのタイムライン](https://drive.google.com/file/d/1bNKrOrAGmfKci9yL9QdmGvld_Slgo2LM/view)
 
