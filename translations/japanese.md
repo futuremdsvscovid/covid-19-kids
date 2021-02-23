@@ -34,3 +34,9 @@
 
 [日本語 – 問題プリント](https://docs.google.com/document/d/1o7HqzRsW8Y3rB_Dj1-M2a6cZxUvo24Ci_xmipJvhRtA/edit?usp=sharing)
 
+– [Safety Tips/衛生上のアドバイス](https://drive.google.com/file/d/1ZsOOou0ogPwjNx-DMt5RrdS4tzfQB2RW/view?usp=sharing)
+
+– [Scientific Method/科学的方法](https://drive.google.com/file/d/12ZgMa6vEbMQCkbvWyW45BR-ppaKHRqQ8/view?usp=sharing)
+
+[– Coronavirus Timeline/新型コロナウイルスのタイムライン](https://drive.google.com/file/d/1bNKrOrAGmfKci9yL9QdmGvld_Slgo2LM/view?usp=sharing)
+
