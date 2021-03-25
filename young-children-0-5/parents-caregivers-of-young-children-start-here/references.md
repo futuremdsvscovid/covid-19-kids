@@ -44,7 +44,7 @@ Sources consulted are ordered by section and subsection.
 * [**https://healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Tips-to-Juggle-Parenting-and-Working-at-Home-COVID-19.aspx**](https://healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Tips-to-Juggle-Parenting-and-Working-at-Home-COVID-19.aspx)
 * [**https://www.yalemedicine.org/stories/8-tips-work-at-home-with-kids-covid-19/**](https://www.yalemedicine.org/stories/8-tips-work-at-home-with-kids-covid-19/)
 * [**https://www.pbs.org/parents**](https://www.pbs.org/parents)
-* [**https://www.pbs.org/parents/pbskidsdaily?source=pbsparents**](https://www.pbs.org/parents/pbskidsdaily?source=pbsparents)
+* \*\*\*\*[**https://www.pbs.org/parents/newsletter**](https://www.pbs.org/parents/newsletter)\*\*\*\*
 
 **Routine**
 
