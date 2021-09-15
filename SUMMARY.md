@@ -69,3 +69,7 @@
   * [Case Part 2: The Iron Lung](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/case-part-2-the-iron-lung.md)
   * [Wrap Up: What Happened to the Man who Lost His Breath?](introduction-simulation-telehealth-and-personal-protective-equipment-ppe/wrap-up-what-happened-to-the-man-who-lost-his-breath.md)
 
+## Other
+
+* [Press](other/press.md)
+
